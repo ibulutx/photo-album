@@ -2,6 +2,8 @@
 
 Sayfayı yenilediğinizde rasgele fotoğraflar sunan albüm sitesi. Html5 Scss JavaScript teknolojilerni  kullanarak oluşturdum
 
+Projenin canlı halini görmek isterseniz : ibulutx.github.io/photo-album/
+
 
 ## Proje Youtube Linki
 
